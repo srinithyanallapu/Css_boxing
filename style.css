@@ -15,7 +15,7 @@
 .con1{
     /* border: 2px solid black; */
     height: 750px;
-    padding-left: 100px;
+    padding-left: 80px;
     margin: 80px ;
     /* width: 100%; */
     
@@ -32,23 +32,23 @@ p{
 .c11{
     display: inline-block;
     /* border: 1px solid red; */
-    width: 400px;
-    padding-left: 100px;
-    /* height: 100%; */
+    width: 300px;
+    padding-left: 20px;
+    height: 100%;
 }
 .c12{
     display: inline-block;
     /* border: 1px solid red; */
-    width: 400px;
-    padding-left: 100px;
-    /* height: 100%; */
+    width: 300px;
+   padding-left: 20px;
+    height: 100%;
 } 
 .c13{
     display: inline-block;
     /* border: 1px solid red; */
-    width: 400px;
-    padding-left: 100px;
-    /* height: 100%; */
+    width: 300px;
+  padding-left: 20px;
+    height: 100%;
 }
 .con2{
     /* border: 2px solid black; */
@@ -61,22 +61,21 @@ p{
 .c21{
     display: inline-block;
     /* border: 2px solid green; */
-    width: 400px;
+    width: 300px;
     height: 100%;
-    padding-left: 100px;
-
+    padding-left: 20px;
 }
 .c22{
     display: inline-block;
     /* border: 2px solid green; */
-    width: 400px;
+    width: 300px;
     height: 100%;
-    padding-left: 100px;
+   padding-left: 20px;
 }
 .c23{
     display: inline-block;
     /* border: 2px solid green; */
-    width: 400px;
+    width: 300px;
     height: 100%;
-    padding-left: 100px;
+   padding-left: 20px;
 }
